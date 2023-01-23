@@ -1,9 +1,10 @@
 .btn-success:hover{
-    background-color: indianred;
+    background-color: rgb(122, 29, 29) !important;
 }
 
 body{
     background-color: darkcyan !important;
+    color: aquamarine !important;
 }
 
 canvas{
